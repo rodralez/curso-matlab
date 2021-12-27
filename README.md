@@ -8,7 +8,7 @@ Las filminas se proveen como están (_as is_). Si tenés alguna duda, trataré d
 
 ## Contenido
 
-El curso consta de 6 clases.
+El curso consta de 6 clases y un examen final.
 
 ### Clase 1
 
